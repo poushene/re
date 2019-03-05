@@ -15,6 +15,3 @@ const smallestDivisor = (num) => {
     };
     console.log("Please, enter an argument wich is > 0")
 };
-smallestDivisor(-10)
-console.log('Something branchy')
-console.log('Branched please, add something')
