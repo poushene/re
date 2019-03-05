@@ -37,3 +37,6 @@ const squareSumOfSquares = (n) => {
     return sumOfSquares(num) ** 2
 }
 console.log(squareSumOfSquares())
+
+
+console.log('some new recentrly made code')
