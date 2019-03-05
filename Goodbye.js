@@ -17,3 +17,4 @@ const smallestDivisor = (num) => {
 };
 smallestDivisor(-10)
 console.log('Something branchy')
+console.log('Branched')
