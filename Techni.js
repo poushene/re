@@ -61,3 +61,5 @@ console.log(positionFinder('lllk;k  sss sdkd ad sd asd ads  ds ss'))
 let vin = 'dsadsadasd'
 vin[0] = vin[0].toUpperCase()
 console.log(vin)
+console.log('GitTest')
+console.log('One more commit')
